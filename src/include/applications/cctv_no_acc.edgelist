@@ -1,0 +1,10 @@
+U f1 {'main': True, 'size': 20}
+f1 f2 {'size': 20}
+f2 c {'size': 20}
+c f3_1 {'size': 20}
+f3_1 f4_1 {'size': 20}
+#f1 {'size': 20}
+#f2 {'size': 40}
+#f3_1 {'size': 20}
+#f4_1 {'size': 10}
+#c {'size': 10}

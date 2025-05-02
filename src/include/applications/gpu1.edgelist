@@ -1,0 +1,8 @@
+U f1 {'main': True, 'size': 50}
+f1 f2 {'size': 50}
+f2 f3 {'size': 50}
+f3 f4 {'size': 50}
+#f1 {'size': 50}
+#f2 {'size': 50}
+#f3 {'gpu': True, 'size': 50}
+#f4 {'size': 50}

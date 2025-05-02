@@ -1,0 +1,16 @@
+U f1 {'size': 20}
+f1 f2 {'size': 20}
+f2 c {'size': 20}
+c f3_1 {'size': 20}
+f3_1 f4_1 {'size': 20}
+c acc_2 {'size': 20}
+acc_2 f3_2 {'size': 20}
+f3_2 f4_2 {'size': 20}
+#f1 {'size': 1}
+#f2 {'size': 3}
+#acc_2 {'acc': True, 'size': 10}
+#f3_2 {'size': 75}
+#f3_1 {'main': True, 'size': 75}
+#f4_2 {'size': 25}
+#f4_1 {'size': 25}
+#c {'choice': True, 'size': 1}

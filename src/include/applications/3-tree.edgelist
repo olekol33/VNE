@@ -1,0 +1,26 @@
+U fa {'size': 20}
+fa c_1 {'size': 7}
+fa c_2 {'size': 7}
+fa c_3 {'size': 7}
+c_1 f1_1 {'size': 7}
+c_1 acc_1 {'size': 7}
+acc_1 f1_2 {'size': 7}
+c_2 f2_1 {'size': 7}
+c_2 acc_2 {'size': 7}
+acc_2 f2_2 {'size': 7}
+c_3 f3_1 {'size': 7}
+c_3 acc_3 {'size': 7}
+acc_3 f3_2 {'size': 7}
+#fa {'size': 3}
+#f1_1 {'main': True, 'size': 33}
+#f1_2 {'size': 33}
+#f2_1 {'main': True, 'size': 33}
+#f2_2 {'size': 33}
+#f3_1 {'main': True, 'size': 33}
+#f3_2 {'size': 33}
+#acc_1 {'acc': True, 'size': 3}
+#acc_2 {'acc': True, 'size': 3}
+#acc_3 {'acc': True, 'size': 3}
+#c_1 {'choice': True, 'size': 1}
+#c_2 {'choice': True, 'size': 1}
+#c_3 {'choice': True, 'size': 1}

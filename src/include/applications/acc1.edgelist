@@ -1,0 +1,10 @@
+U acc_1 {'main': True, 'size': 50}
+acc_1 f2 {'size': 50}
+f2 c {'size': 50}
+c f3_1 {'size': 50}
+f3_1 f4_1 {'size': 50}
+#acc_1 {'acc': True, 'size': 50}
+#f2 {'size': 50}
+#f3_1 {'size': 50}
+#f4_1 {'size': 50}
+#c {'size': 50}
